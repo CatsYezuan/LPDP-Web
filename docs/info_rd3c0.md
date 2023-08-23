@@ -18,10 +18,3 @@
 <img src=".\media\RD3C0-1.jpg" alt="RD3C0-1"  />
 
 <img src=".\media\RD3C0-2.jpg" alt="RD3C0-2"  />
-
-
-
-#### <font color="\#3CB371">组装过程:</font>
-
-<video src=".\media\rd3c0.mp4"></video>
-
