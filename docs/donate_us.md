@@ -13,9 +13,9 @@
 #### <font color="\#3CB371">赞助方式:</font>
 
 - **微信支付: **
-<img src="C:\Users\33027\Desktop\叶桃防灾文档\media\donate_wechat.png" alt="donate_wechat" style="zoom: 25%;" />
+<img src=".\media\donate_wechat.png" alt="donate_wechat" style="zoom: 25%;" />
 - **支付宝支付: **
-<img src="C:\Users\33027\Desktop\叶桃防灾文档\media\donate_alipay.jpg" alt="donate_alipay" style="zoom:25%;" />
+<img src=".\media\donate_alipay.jpg" alt="donate_alipay" style="zoom:25%;" />
 - [备用方式]爱发电: [点我传送~](https://afdian.net/@CatsYezuan)
 - [备用方式]BiliBili充电: [点我传送~](https://space.bilibili.com/1297775055)
 
